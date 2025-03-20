@@ -18,5 +18,5 @@ This Python script implements an AI chatbot using Natural Language Processing (N
 
 #OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/9134fbad-858a-40ea-92a8-2157c59ad4f7)
 
